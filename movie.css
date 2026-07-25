@@ -137,8 +137,8 @@
   .hud-top{
     position:absolute; top:18px; left:26px; right:26px;
     display:flex; justify-content:space-between;
-    font-size:10px; letter-spacing:0.22em; text-transform:uppercase;
-    color:var(--mist-dim);
+    font-size:20px; letter-spacing:0.22em; text-transform:uppercase;
+    color:white;
     z-index:5;
   }
 
